@@ -7,7 +7,7 @@
 ![example1](images/1.png)
 
 ### Example 2
-#### Or see if two countries have the same country as their neighbor 
+#### checks if two countries have the same country as their neighbor 
 ![example1](images/2.png)
 
 ### Example 3
